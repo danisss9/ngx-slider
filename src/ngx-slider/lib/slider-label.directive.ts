@@ -26,7 +26,7 @@ export class SliderLabelDirective extends SliderElementDirective {
     }
 
     this._value = value;
-    this.elemRef.nativeElement.innerHTML = value;
+    this.elemRef.nativeElement.text = value;
 
     // Update dimension only when length of the label have changed
     if (recalculateDimension) {
