@@ -1,9 +1,4 @@
-# ngx-slider
-[![npm version](https://badge.fury.io/js/%40angular-slider%2Fngx-slider.svg)](https://badge.fury.io/js/%40angular-slider%2Fngx-slider)
-
-Website: https://angular-slider.github.io/ngx-slider/
-
-Self-contained, mobile friendly slider component for Angular 6+ based on [angularjs-slider](https://github.com/angular-slider/angularjs-slider).
+# ngx-slider-v2
 
 **NOTE: This fork was merged into the main [repo](https://github.com/angular-slider/ngx-slider). Please use [@angular-slider/ngx-slider](https://www.npmjs.com/package/@angular-slider/ngx-slider) package instead!**
 
